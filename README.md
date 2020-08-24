@@ -59,11 +59,13 @@ const chayan = {
 
 ### 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Chayan's github stats](https://github-readme-stats.vercel.app/api?username=Chayan199916&show_icons=true&hide_border=true)
+![Chayan's github stats](https://github-readme-stats.vercel.app/api?username=Chayan199916&show_icons=true&hide_border=true&text_color=9f9f9f&bg_color=151515)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
-<p align="center">
+
+******************************
+<p>
   <a href="mailto:swapnomoy199916@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/chayan-sengupta-38a599192/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" /></a>
 </p>
