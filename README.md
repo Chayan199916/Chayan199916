@@ -65,9 +65,9 @@ const chayan = {
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
 
 ******************************
-<p>
+<p align="center">
   <a href="mailto:swapnomoy199916@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/chayan-sengupta-38a599192/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/chayan-sengupta-38a599192/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
 </p>
 
 ⭐️ From [Chayan199916](https://github.com/[Chayan199916])
