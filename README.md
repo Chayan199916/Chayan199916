@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://www.sxccal.edu/">St. Xavier's College</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-chayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chayan-sengupta-38a599192/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-chayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chayan-sengupta-38a599192/)](https://www.linkedin.com/in/chayan-sengupta-38a599192/)
 ![GitHub followers](https://img.shields.io/github/followers/Chayan199916?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Chayan199916.Chayan199916)
 
