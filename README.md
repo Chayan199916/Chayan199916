@@ -5,39 +5,47 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sen-chayan"><img src="https://img.shields.io/badge/-chayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sen-chayan"></a>
   <a href="https://github.com/Chayan199916"><img src="https://img.shields.io/github/followers/Chayan199916?label=Follow&style=social"></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Chayan199916.Chayan199916">
 </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+🧰 Tech Stack
 
 ```javascript
 const chayan = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "C++", "C", "Dart"],
-    technologies: {
-        mobileApp: ["Flutter", "Android App"],
-        frontEnd: {
-            css: ["Bootstrap", "SCSS"],
-            js: ["React"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Flask", "Django"]
-        },
-        databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "Firebase Firestore"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "Docker"],
-        cloud: ["AWS", "Heroku"]
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "Python", "Java", "C++", "C", "Dart"],
+  technologies: {
+    mobileApp: ["Flutter", "Android App"],
+    frontEnd: {
+      css: ["Bootstrap", "SCSS"],
+      js: ["React"],
     },
-    otherInterests: ["Neuroscience", "Quantum Physics", "Swimming", "Singing"],
-    profiles: {
-        github: "Chayan199916",
-        linkedin: "sen-chayan",
-        youtube: "One To N Teaching",
-        facebook: "swapnomoy1999",
-        instagram: "chayan_sen_16",
-        twitter: "ChayanSengupta6",
-        reddit: "chayan199916"
-    }
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Flask", "Django"],
+    },
+    databases: [
+      "MongoDB",
+      "MySQL",
+      "SQLite",
+      "PostgreSQL",
+      "Firebase Firestore",
+    ],
+    misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "Docker"],
+    cloud: ["AWS", "Heroku"],
+  },
+  otherInterests: ["Neuroscience", "Quantum Physics", "Swimming", "Singing"],
+  profiles: {
+    github: "Chayan199916",
+    linkedin: "sen-chayan",
+    youtube: "One To N Teaching",
+    facebook: "swapnomoy1999",
+    instagram: "chayan_sen_16",
+    twitter: "ChayanSengupta6",
+    reddit: "chayan199916",
+  },
 };
+```
 
 📝 Professional Summary
 
@@ -77,8 +85,6 @@ Certifications: JavaScript Algorithms and Data Structures, Responsive Web Design
 📚 Publications
 Overlapped Fingerprint Separation using Graph-based Model
 
-```
-
 #### 🌟Funfact : Single line of javascript solved "the chicken or the egg causality dilemma"
 
 ```javascript
@@ -110,7 +116,7 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 ---
 
 <p align="center">
-  <a href="mailto:swapnomoy199916@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="30" width="30" /></a>
+  <a href="mailto:swapnomoy199916@gmail.com"><img src="https://www.svgrepo.com/show/267017/mail-email.svg" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/sen-chayan/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
 </p>
 
