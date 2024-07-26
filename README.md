@@ -47,43 +47,35 @@ const chayan = {
 };
 ```
 
-📝 Professional Summary
+### Professional Summary
 
-Passionate Full Stack Developer with a keen interest in leveraging cutting-edge technologies to solve complex problems. Engaged in freelance projects, specializing in developing mobile applications that harness the power of machine learning for image analysis. Over a year of experience in end-to-end solution design, middleware development, and UI/UX design.
+A passionate Full Stack Developer with a strong desire to utilize cutting-edge technologies to create solutions that address complex challenges. Currently freelancing and specializing in mobile application development that integrates machine learning for image analysis. Over a year of experience in full-stack development, encompassing end-to-end solution design, middleware development, and UI/UX design. Skilled in various technologies including Node.js, Express.js, HTML/CSS, JavaScript (with a focus on Lightning Web Components), version control systems, and testing methodologies to deliver robust and scalable software solutions.
 
-Proficient in technologies such as Node.js, Express.js, HTML/CSS, and JavaScript, with a focus on Lightning Web Components for user-centric interfaces. Skilled in version control management and testing methodologies, ensuring robust and scalable software solutions.
+### Experience
 
-💼 Experience
+Freelance Full Stack Developer (March 2024 - Present)
 
-Freelance | Full Stack Developer
-March 2024 - Present (5 months)
+Developing a cutting-edge mobile application leveraging machine learning algorithms for image analysis.
 
-Currently working on a cutting-edge mobile application that leverages machine learning algorithms for image analysis.
+CloudKaptan Consultancy Services | Software Engineer (November 2022 - August 2023)
 
-CloudKaptan Consultancy Services | Software Engineer
-November 2022 - August 2023 (10 months)
+Customer Interaction & Requirement Discussion: Engaged with clients to comprehend and analyze project requirements effectively.
+End-to-End Solution Design: Orchestrated the design process for comprehensive solutions, including web applications and middleware.
+Task Prioritization & Execution: Identified, prioritized, and methodically implemented tasks throughout the software development life cycle.
+Version Control Management: Utilized version control systems like GitHub and Bitbucket for assigned projects.
+Project Experience: Played a crucial role in successfully delivering 3 comprehensive end-to-end backend projects.
 
-Customer Interaction and Requirement Discussion: Engaging in customer interactions to discern and analyze project requirements effectively.
-End-to-End Solution Design: Orchestrating the design process for complete solutions encompassing web applications and middleware.
-Task Prioritization and Execution: Identifying, prioritizing, and methodically executing tasks throughout the software development life cycle.
-Version Control Management: Managing version control systems, such as GitHub and Bitbucket, for assigned projects.
-Project Experience: Played a pivotal role in 3 comprehensive end-to-end backend project implementations.
+SuccessR HR Tech Pvt Ltd | Web Development Intern (September 2021 - December 2021)
 
-SuccessR HR Tech Pvt Ltd | Web Development Intern
-September 2021 - December 2021 (4 months)
+Successfully delivered websites that seamlessly integrate real-time payment functionalities.
 
-Successfully delivered sites with real-time payments.
+### Education
 
-🎓 Education
+National Institute of Technology Durgapur (August 2023 - July 2025): Master of Technology (M.Tech) - Computer Science (Ongoing)
 
-National Institute of Technology Durgapur: Master of Technology - MTech, Computer Science (August 2023 - July 2025)
-St. Xavier's College (Autonomous), Kolkata: Bachelor’s Degree (June 2017 - January 2022)
-Sodepur High School: High School (January 2009 - June 2017)
+### Publications
 
-Certifications: JavaScript Algorithms and Data Structures, Responsive Web Design, Java (Basic) assessment, AWS Fundamentals: Migrating to the Cloud, Python (Basic) assessment
-
-📚 Publications
-Overlapped Fingerprint Separation using Graph-based Model
+<a href = "https://ieeexplore.ieee.org/document/10028828">Overlapped Fingerprint Separation using Graph-based Model</a>
 
 #### 🌟Funfact : Single line of javascript solved "the chicken or the egg causality dilemma"
 
