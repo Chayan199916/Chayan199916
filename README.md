@@ -15,15 +15,109 @@ Software Engineer specializing in full-stack development and machine learning. C
 ### 🛠️ Technical Arsenal
 
 ```javascript
-{
-  "languages": ["JavaScript", "Python", "Java", "C++"],
-  "frontend": ["React", "Bootstrap", "SCSS"],
-  "backend": ["Node.js", "Express", "Django", "Flask"],
-  "mobile": ["Flutter", "Android"],
-  "databases": ["MongoDB", "PostgreSQL", "Firebase"],
-  "cloud": ["AWS", "Docker", "Heroku"],
-  "ml/ai": ["TensorFlow", "OpenCV", "scikit-learn"]
-}
+const techStack = {
+  core: {
+    languages: [
+      {
+        name: "Python",
+        level: "advanced",
+        expertise: ["ML/AI", "Backend", "Data Processing"],
+      },
+      {
+        name: "JavaScript",
+        level: "advanced",
+        expertise: ["Frontend", "Backend"],
+      },
+      {
+        name: "Dart",
+        level: "intermediate",
+        expertise: ["Mobile Development"],
+      },
+      { name: "Java", level: "intermediate", expertise: ["Backend"] },
+      {
+        name: "C++",
+        level: "intermediate",
+        expertise: ["Systems Programming"],
+      },
+    ],
+  },
+  development: {
+    frontend: {
+      web: {
+        core: ["HTML", "CSS", "JavaScript"],
+        frameworks: {
+          ui: ["React"],
+          styling: ["Tailwind CSS", "Bootstrap", "SCSS"],
+        },
+        optimization: ["Intersection Observer", "Gzip"],
+      },
+      mobile: {
+        frameworks: ["Flutter"],
+        stateManagement: ["GetX"],
+      },
+    },
+    backend: {
+      node: {
+        runtime: ["Node.js"],
+        frameworks: ["Express"],
+      },
+      python: {
+        frameworks: ["Flask", "Django"],
+      },
+    },
+  },
+  architecture: {
+    patterns: {
+      microservices: {
+        patterns: ["API Gateway", "Service Discovery", "Load Balancing"],
+        communication: ["REST", "Message Queues"],
+        deployment: ["Containerization", "Orchestration"],
+      },
+      design: ["MVC", "REST API", "Microservices"],
+    },
+    security: {
+      authentication: ["JWT"],
+      authorization: ["Role-based Access"],
+      dataProtection: ["Encryption", "Secure Communication"],
+    },
+  },
+  data: {
+    databases: {
+      noSQL: ["MongoDB", "Firebase"],
+      SQL: ["MySQL", "PostgreSQL"],
+    },
+    cloud: {
+      platforms: ["AWS", "Heroku"],
+      services: ["S3", "ECS", "ECR"],
+    },
+  },
+  ai_ml: {
+    machineLearning: {
+      frameworks: ["TensorFlow", "scikit-learn"],
+      libraries: ["NumPy", "Pandas"],
+    },
+    computerVision: ["OpenCV", "Tesseract"],
+    nlp: {
+      core: ["NLTK"],
+      models: ["Word2Vec", "DistilBERT"],
+    },
+    visualization: ["Matplotlib", "FL Chart"],
+  },
+  specialized: {
+    dataVisualization: ["FL Chart"],
+    payments: ["Stripe"],
+    architectures: ["CNN", "LSTM", "BiLSTM"],
+  },
+  devOps: {
+    containerization: ["Docker"],
+    versionControl: ["Git"],
+    cicd: {
+      tools: ["GitHub Actions"],
+      practices: ["Automated Testing", "Continuous Deployment"],
+    },
+    monitoring: ["Application Logs", "Performance Metrics"],
+  },
+};
 ```
 
 ### 🎯 Professional Journey
@@ -52,8 +146,4 @@ Software Engineer specializing in full-stack development and machine learning. C
 
 <div align="center">
   <i>Open to collaborations and interesting projects</i>
-  <p align="center">
-  <a href="mailto:swapnomoy199916@gmail.com"><img src="https://www.svgrepo.com/show/267017/mail-email.svg" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/sen-chayan/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-</p>
 </div>
